@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+# Mi proyecto en html de wordpress
 
-You can use the [editor on GitHub](https://github.com/bartolomecoto/proyecto-html-en-wordpress/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Experimentando con los enlaces del proyecto [linkeando a google](https://www.google.com/) y explicando un poco como funciona.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+
+
+1. Numbered
+2. List
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
